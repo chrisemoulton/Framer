@@ -37,8 +37,8 @@
     "mocha-phantomjs": "^4.0.1",
     "mustache": "^2.0.0",
     "simulate": "^0.0.5",
-    "webpack": "^1.7.3",
-    "webpack-dev-server": "^1.14.1",
+    "webpack": "^5.94.0",
+    "webpack-dev-server": "^5.0.4",
     "webpack-stream": "^3.0.1"
   },
   "keywords": [
